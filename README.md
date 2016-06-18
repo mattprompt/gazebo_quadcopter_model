@@ -1,5 +1,6 @@
 # gazebo_quadcopter_model
 Gazebo model of quadcopter and world with multiple instances.
+<<<<<<< HEAD
 
 This project is a quadcopter model for Gazebo.
 It's an updated version of the example Gazebo quadcopter model, located in: 
@@ -24,3 +25,5 @@ If you want to change the number of quads in the world, or want them to have dif
 Thanks for your interest!
 
 
+=======
+>>>>>>> f29baf3a6d74088a856941e0423c310d60322eef
