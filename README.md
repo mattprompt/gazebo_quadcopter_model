@@ -23,4 +23,4 @@ If you want to change the number of quads in the world, or want them to have dif
 
 Thanks for your interest!
 
-![Alt text](screenshot.jpg?raw=true "Quadcopters")
+![Alt text](screenshot.png?raw=true "Quadcopters")
